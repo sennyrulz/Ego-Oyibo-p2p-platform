@@ -1,0 +1,202 @@
+body{
+    height: 100vh;
+    margin: 0;
+}
+
+div{
+    resize: both;
+}
+
+textarea{
+    resize: none;
+}
+
+.TopNav{
+    display: flex;
+    background-color: #2B3139;
+    height: 60px;
+    width: 100%;
+    margin: 0;
+}
+
+.TopNav p{
+    color: #ffff;
+    margin: 25px 0 0 200px;
+    font-size: 1vw;
+}
+
+.TopNavlist{
+    display: flex;
+    font-size: 1vw;
+    margin: 25px 0 0 0;
+}
+
+.TopNavlist a{
+    list-style: none;
+    text-decoration: none;
+    color: #ffff;
+    margin: 0px 0px 0 -40px;
+}
+
+.BottomNav{
+    display: flex;
+    width: 100%;
+    background-color: #A1A4AE;
+    height: 80px;   
+    justify-content: space-between;
+    opacity: 0.9;
+    
+}
+
+.BottomNav img{
+    margin: 15px 0 0 120px;
+}
+
+.BottomNavLists{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 18%;
+    margin: 0;
+}
+
+.BottomNavLists a{
+    text-decoration: none;
+    margin: 32px 0 0 0;
+    color: #000000;
+    font-size: 1vw;
+}
+
+.BottomNavLists button{
+    border-radius: 20px;
+    background-color: #0094FF;
+    margin: 20px 120px 15px 0;
+    padding: 5px 20px;
+    text-align: center;
+    display: inline-block;
+    border: 0;
+    font-size: 1vw;
+    color: #ffffff;
+}
+
+.BottomNavLists button a{
+    color: #ffffff;
+}
+
+.HeroBanner1container{
+    display: flex;
+    margin: 5px 0 0px 120px;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+}
+
+.HeroBanner1container h1{
+    margin: 20px 0 10px 0;
+    font-size: 2.6vw;
+    font-weight: 500;
+}
+
+.Banner1img{
+    margin: 0 0 0 100px;
+    height: auto;
+    max-width: 100%;
+}
+
+.EgoOyiboFXP2PText button{
+    margin: 20px 0 0 0;
+    border-radius: 30px;
+    background-color: #0094FF;
+    color: #ffff;
+    border: 0;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1vw;
+}
+
+.Support_Icon{
+    margin: 500px -400px 0 0;
+    height:60px;
+    width: 60px;
+}
+
+.LearnMoreButton{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.GetStartedContainer{
+    background-color: #181A20;
+}
+
+.GetStartedText{
+    color: #ffff;
+    margin: 0px 115px 0 115px;
+    padding-top: 2%;
+    font-size: 1.2vw;
+}
+
+.GetStartedandIcons{
+    color: #ffffff;
+    margin: 50px 0 0 115px;
+}
+
+.GetStartedIconsimgIcon1{
+    display: flex;
+}
+
+.GetStartedIconsimgIcon1 h2{
+    margin: 0 0 0 20px;
+}
+
+.imgicon1{
+    height: 70px;
+    width: 92px;
+}
+
+.GetStartedIconsimgIcon2{
+    display: flex;
+}
+
+.GetStartedIconsimgIcon2 h2{
+    margin: 0 0 0 20px;
+}
+.imgicon2{
+    height: 73px;
+    width: 91px;
+}
+
+.GetStartedIconsimgIcon3{
+    display: flex;
+}
+
+.GetStartedIconsimgIcon3 h2{
+    margin: 0 0 0 20px;
+}
+
+.imgIcon3{
+    height: 68.25px;
+    width: 78px;
+}
+
+.GetStartedIconsimgIcon4{
+    display: flex;
+}
+
+.GetStartedIconsimgIcon h2{
+    margin: 0 0 0 20px;
+}
+
+.imgIcon4{
+    height: 66.4px;
+    width: 83px;
+}
+
+.CryptoPhone{
+    height: 813px;
+    width: 400px;
+}
+
+
+
